@@ -1,0 +1,24 @@
+.projeto-container{
+    margin-bottom: 120px;
+    height: 300px;
+    width: 400px;
+}
+
+.projeto-descricao{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 10px;
+}
+
+.projeto-descricao-informacao{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.projeto-imagem{
+    height: 300px;
+    width: 400px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}

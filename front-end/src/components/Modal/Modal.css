@@ -1,0 +1,32 @@
+.pagamento-container{
+    position: absolute;
+    padding: 150px;
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.agredecimento-container{
+    margin-bottom: 30px;
+}
+
+.informacoes-container{
+    width: 450px;
+}
+
+.agredecimento-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fecharModal{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 20px 30px;
+    font-size: 30px;
+    color: red;
+    cursor: pointer;
+}

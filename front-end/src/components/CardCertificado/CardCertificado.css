@@ -1,0 +1,8 @@
+.item_certificado{
+    background-color: rgb(0, 3, 199);
+}
+
+.item_certificado_descricao{
+    gap: 5px;
+    color: white;
+}
